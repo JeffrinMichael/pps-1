@@ -1,3 +1,7 @@
+PPS Billing Project
+AUTHOR; JEFFRIN.M
+        PAUL EBENEZER
+	
 #include<stdio.h>
 #include<string.h>
 #include<ctype.h>
